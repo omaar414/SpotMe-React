@@ -7,15 +7,18 @@
 ---
 
 ## 📸 Screenshots
-
-### 🏠 **Main Dashboard**
-
-
-### 🗺️ **Map with Friends**
-
-
-### 📋 **Friends List**
-
+### **Home View**
+![Home View](https://github.com/user-attachments/assets/7f1dd990-8c32-48f8-beed-72b3970ae597)
+### **Login View**
+![Login View](https://github.com/user-attachments/assets/4f163365-067b-4ee9-abe9-e260a74eb79b)
+### **Register View**
+![Register View](https://github.com/user-attachments/assets/4d8a6cac-03e9-490f-801c-79ad84d2ea85)
+### **Profile View**
+![Profile View](https://github.com/user-attachments/assets/626ab875-74a2-46aa-ac23-970cf2448bdf)
+### **Friends View**
+![Friends View](https://github.com/user-attachments/assets/824d2007-9f0c-430d-b7a9-3939a3110e53)
+### **Search View**
+![Search View](https://github.com/user-attachments/assets/7fe1409a-2f4e-4ad5-ae0a-61a9bb8db2d2)
 
 ---
 
