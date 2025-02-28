@@ -40,7 +40,7 @@
 ## 🔧 **Installation and Setup**
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/SpotMe-React.git
+git clone https://github.com/omaar414/SpotMe-React.git
 cd SpotMe-React
 2️⃣ Install Dependencies
 ```bash
