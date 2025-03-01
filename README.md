@@ -36,7 +36,7 @@
 - **Styling:** Tailwind CSS
 - **Maps:** React-Leaflet (OpenStreetMap)
 - **Authentication:** JSON Web Tokens (JWT)
-- **Backend:** [.NET Core Web API](https://github.com/YOUR-USERNAME/SpotMe-NetCoreAPI)
+- **Backend:** [.NET Core Web API](https://github.com/omaar414/SpotMe-ASPNetCoreAPI.git)
 
 ---
 
